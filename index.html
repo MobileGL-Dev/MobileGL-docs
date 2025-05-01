@@ -17,13 +17,15 @@
         autoHeader: true,
 		nativeEmoji: false,
         subMaxLevel: 2,
-		basePath: 'https://docs.mobilegl.top/',
 		loadFooter: true,
 		loadFooter: '_footer.md',
         search: {
             placeholder: 'Search',
             noData: 'Not Found'
-        }
+        },
+		alias: {
+        '/.*/_sidebar.md': '/_sidebar.md'
+		}
     }
 </script>
     <script src="https://cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
