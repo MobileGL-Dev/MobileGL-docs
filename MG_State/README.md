@@ -32,12 +32,12 @@
 
 ## Component Status
 
-| Components                      | Progress                      | Note                                                                  |
-|---------------------------------|-------------------------------|------------------------------------------------==============---------|
-| GL Error                        | ✅ Implemented                | BufferState, VertexArrayState and ProgramState need more error checks |
-| GL Global Rendering State       | ℹ️ Simple implementation      |                                                                       |
-| Texture                         | ℹ️ Simple implementation      |                                                                       |
-| Buffer                          | ℹ️ Simple implementation      | VBO & EBO implemented; others coming soon                             |
-| Vertex Array                    | ℹ️ Simple implementation      |                                                                       |
-| Shader & Program                | ℹ️ Simple implementation      | glUniform* functions are absent now                                   |
-| Framebuffer                     | ⌛ Coming soon                |                                                                       |
+| Components                      | Progress                          | Note                                                                  |
+|---------------------------------|-----------------------------------|-----------------------------------------------------------------------|
+| GL Error                        | ✅ Implemented                    | BufferState, VertexArrayState and ProgramState need more error checks |
+| GL Global Rendering State       | ℹ️ Simple implementation          |                                                                       |
+| Texture                         | ℹ️ Simple implementation          |                                                                       |
+| Buffer                          | ℹ️ Simple implementation          | VBO & EBO implemented; others coming soon                             |
+| Vertex Array                    | ℹ️ Simple implementation          |                                                                       |
+| Shader & Program                | ☑️ Nearly complete implementation |                                                                       |
+| Framebuffer                     | ⌛ Coming soon                    |                                                                       |
