@@ -40,4 +40,4 @@
 | Buffer                          | ℹ️ Simple implementation          | VBO & EBO implemented; others coming soon                             |
 | Vertex Array                    | ℹ️ Simple implementation          |                                                                       |
 | Shader & Program                | ☑️ Nearly complete implementation |                                                                       |
-| Framebuffer                     | ⌛ Coming soon                    |                                                                       |
+| Framebuffer                     | ℹ️ Simple implementation          |                                                                       |
