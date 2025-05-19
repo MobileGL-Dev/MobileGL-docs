@@ -1,4 +1,4 @@
-*(Work-in-Progress | Early Development)*  
+*(Work-in-Progress | In Development)*  
 
 **A Generic OpenGL State Machine**  
 
@@ -7,7 +7,7 @@
 ## Overview  
 **MobileGL-State** (*MG_State*) is a modular OpenGL state machine emulator designed to replicate the behavior of OpenGL contexts. It provides accurate tracking and validation of OpenGL states (e.g., textures, buffers, shaders).  
 
-**⚠️ Note**: This component is in **active early development**. Core functionality is incomplete and subject to change.  
+**⚠️ Note**: This component is **in development**.
 
 ---
 
@@ -41,3 +41,4 @@
 | Vertex Array                    | ℹ️ Simple implementation          |                                                                                           |
 | Shader & Program                | ☑️ Nearly complete implementation |                                                                                           |
 | Framebuffer                     | ℹ️ Simple implementation          |                                                                                           |
+| Others...                       | ⏳ Coming Soon                    |                                                                                           |
